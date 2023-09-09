@@ -1,4 +1,3 @@
-```markdown
 # EnjoyTrip_Deajeon06_김희중_조은영_front
 # 구성도
 
